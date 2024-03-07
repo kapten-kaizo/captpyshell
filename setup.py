@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'pyshell',         # How you named your package folder (MyLib)
-  packages = ['pyshell'],   # Chose the same as "name"
+  name = 'captpyshell',         # How you named your package folder (MyLib)
+  packages = ['captpyshell'],   # Chose the same as "name"
   version = '1.0',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'python debugger, inject code into python prosses',   # Give a short description about your library
